@@ -6,6 +6,7 @@ import edu.gatech.oad.antlab.person.*;
 import edu.gatech.oad.antlab.pkg2.*;
 
 
+
 /**
  * CS2335 Ant Lab
  *
@@ -32,7 +33,7 @@ import edu.gatech.oad.antlab.pkg2.*;
     
     
     /**
-     * the constructor that intializes all the helper classes
+     * the constructor that initializes all the helper classes
      */
     public AntLabMain () {
         
