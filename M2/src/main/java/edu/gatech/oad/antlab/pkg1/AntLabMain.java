@@ -6,6 +6,7 @@ import edu.gatech.oad.antlab.person.*;
 import edu.gatech.oad.antlab.pkg2.*;
 
 
+
 /**
  * CS2335 Ant Lab
  *
@@ -32,7 +33,7 @@ import edu.gatech.oad.antlab.pkg2.*;
     
     
     /**
-     * the constructor that intializes all the helper classes
+     * the constructor that initializes all the helper classes
      */
     public AntLabMain () {
         
@@ -61,8 +62,8 @@ import edu.gatech.oad.antlab.pkg2.*;
 		  toPrint += p1.toString("903112472");
 		  //Person2 replace P2 with your name
 		  //and gburdell with your gt id
-		  Person2 p2 = new Person2("P2");
-		  toPrint += p2.toString("gburdell2");
+		  Person2 p2 = new Person2("Duc Le");
+		  toPrint += p2.toString("903449176");
 		  //Person3 replace P3 with your name
 		  //and gburdell3 with your gt id
 		  Person3 p3 = new Person3("Kiet Tran");
