@@ -1,3 +1,4 @@
+defaultTasks 'jar'
 apply plugin: 'java'
 
 dependencies {
@@ -7,6 +8,7 @@ dependencies {
 jar {
     manifest {
         attributes 'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain'
+        attributes 'Class-Path': '../../lib/resources.jar'
     }
     baseName = 'ant-lab'
     version = '0.1.0'
