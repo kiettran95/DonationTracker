@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="M2/src/main/java"/>
+	<classpathentry kind="lib" path="M2/AntLab.jar"/>
+	<classpathentry kind="lib" path="M2/lib/resources.jar"/>
+	<classpathentry kind="output" path="M2/src/main/java"/>
+</classpath>
