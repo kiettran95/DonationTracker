@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9e04924963c9f409480569f0b608940b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62988afd7fdb81be860746c7afa74e4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98b213cb22a72336605b65f914df7277/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/455737febfc5b8eb7fd6a2f4301cee8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5649dd6751e1b38cef9abde3e20e5b82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b43a2e53c733484eb7a78068cb5b5cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3bf09d9e669d9b143b908f0d318f8094/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf44a62ffdec22d922f02ac4557a056c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2aa94e800b89092e2bb08d44e021919b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/316eb547616c3caa46747261f0b404cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f61b79343a374bcf004db35f983dcc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9aa5d63553c545769bcf143ebee6b08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28187c2e179f5b1758b18227551b4d54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/320fc2f7775ccdf6f2e4bfb6bc985760/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a2db58213778d1418eec3ee8ad6457b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a0748ecdc70cff6dd60fad2185e62212/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c23e23aa959dbdc47a9ca0bb1597fcc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9158b3bc596ebbe708a1fc751f28d9c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eecc9a4554ceb36712914e9a8a26b443/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4055630c9be20c50c7cdf3968b83190/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f79dd7d736ef4e8f697caa53d42da57/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/295cecebd71e64517eba4ba9fd2be8b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/72b7ec9c27f6bef365b6027dcc69b9a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68fdd998db7362f47f044c3caa6ecf5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/71aaea94773aeaa6ef324d199ff26b9c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:2:5-60
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:4:5-10:43
+MERGED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a2db58213778d1418eec3ee8ad6457b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a2db58213778d1418eec3ee8ad6457b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9e04924963c9f409480569f0b608940b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9e04924963c9f409480569f0b608940b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62988afd7fdb81be860746c7afa74e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62988afd7fdb81be860746c7afa74e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98b213cb22a72336605b65f914df7277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/98b213cb22a72336605b65f914df7277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/455737febfc5b8eb7fd6a2f4301cee8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/455737febfc5b8eb7fd6a2f4301cee8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5649dd6751e1b38cef9abde3e20e5b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5649dd6751e1b38cef9abde3e20e5b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b43a2e53c733484eb7a78068cb5b5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0b43a2e53c733484eb7a78068cb5b5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3bf09d9e669d9b143b908f0d318f8094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3bf09d9e669d9b143b908f0d318f8094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf44a62ffdec22d922f02ac4557a056c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf44a62ffdec22d922f02ac4557a056c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2aa94e800b89092e2bb08d44e021919b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2aa94e800b89092e2bb08d44e021919b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/316eb547616c3caa46747261f0b404cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/316eb547616c3caa46747261f0b404cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f61b79343a374bcf004db35f983dcc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4f61b79343a374bcf004db35f983dcc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9aa5d63553c545769bcf143ebee6b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c9aa5d63553c545769bcf143ebee6b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28187c2e179f5b1758b18227551b4d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28187c2e179f5b1758b18227551b4d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/320fc2f7775ccdf6f2e4bfb6bc985760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/320fc2f7775ccdf6f2e4bfb6bc985760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd379656785c67e475fcc83e57a67977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a2db58213778d1418eec3ee8ad6457b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2a2db58213778d1418eec3ee8ad6457b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a0748ecdc70cff6dd60fad2185e62212/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a0748ecdc70cff6dd60fad2185e62212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c23e23aa959dbdc47a9ca0bb1597fcc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c23e23aa959dbdc47a9ca0bb1597fcc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9158b3bc596ebbe708a1fc751f28d9c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9158b3bc596ebbe708a1fc751f28d9c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eecc9a4554ceb36712914e9a8a26b443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eecc9a4554ceb36712914e9a8a26b443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4055630c9be20c50c7cdf3968b83190/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4055630c9be20c50c7cdf3968b83190/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f79dd7d736ef4e8f697caa53d42da57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3f79dd7d736ef4e8f697caa53d42da57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/295cecebd71e64517eba4ba9fd2be8b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/295cecebd71e64517eba4ba9fd2be8b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/72b7ec9c27f6bef365b6027dcc69b9a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/72b7ec9c27f6bef365b6027dcc69b9a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68fdd998db7362f47f044c3caa6ecf5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/68fdd998db7362f47f044c3caa6ecf5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/71aaea94773aeaa6ef324d199ff26b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nnguyen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/71aaea94773aeaa6ef324d199ff26b9c/AndroidManifest.xml:20:5-44
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		ADDED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nnguyen/DonationTracker/app/src/main/AndroidManifest.xml
